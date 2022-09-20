@@ -1,0 +1,13 @@
+1. Const PI will stop the variable from being changed later. 
+
+2. const PI = 3.14
+PI = apple
+=> Error
+
+3. The difference between var and let is that var on a global scale and reasigns to the window where var is less global. Var can also be reinitialized whereas let cannot be. 
+
+4. Const cannot be reassigned at all. Const, similar to let, is also more localized than var. 
+
+5. Let can be changed while const cannot be. 
+
+6. Hoisting is that compiling of var where it sends the variable declaration to the "top" of the page and allows for the running of functions prior to the var declaration. 
